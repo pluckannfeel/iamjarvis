@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p>
-        I'm a developer with passion and optimism,{" "}
+        I am a developer with passion and optimism,{" "}
         <span className="font-medium">desire to meet success and happiness in life.</span> I
         specialize in full-stack development, with a core stack that includes
         <span className="font-medium">
@@ -41,14 +41,14 @@ export default function About() {
       <br></br>
 
       <p>
-        <span className="italic">When I'm not working</span>, I enjoy walking
+        <span className="italic">When I am not working</span>, I enjoy walking
         and outdoor activities (hiking and camping). I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">
           new tools in technology such as building mobile apps in React Native
         </span>
-        . I'm also also passionate about wonderful scenery and photography.
+        . I am also also passionate about wonderful scenery and photography.
         Lastly, I want to learn how to swim.
       </p>
     </motion.section>
