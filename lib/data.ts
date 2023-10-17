@@ -110,7 +110,7 @@ export const projectsData = [
   {
     title: "Web Content Management System",
     description:
-      "I created several CMS sites for clients using Wordpress (PHP) and Django, with features such as client details, blogs, navigations, etc.",
+      "I created several CMS sites for clients using Wordpress (PHP) and Django, with features such as client details, blogs, navigations, payment integrations etc.",
     tags: ["PHP", "Wordpress", "HTML", "CSS", "Python", "Django"],
     imageUrl: cms,
   },
