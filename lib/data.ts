@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import { LuHardHat, LuAtom, LuDatabase, LuGraduationCap } from "react-icons/lu";
+import { LuHardHat, LuAtom, LuDatabase, LuGraduationCap, LuHardDrive } from "react-icons/lu";
 // import corpcommentImg from "@/public/corpcomment.png";
 import mysSaas from "@/public/mys_saas.jpg";
 import airflow from "@/public/airflow.png";
@@ -73,7 +73,15 @@ export const experiencesData = [
     description:
       "Driven by my passion to return to Japan, I made the bold decision to leave a stable job in my home country and successfully accepted in a Japanese company. In my current role as a full stack developer, I specialize in utilizing tools such as React with TypeScript, Python, and AWS as our primary cloud service.",
     icon: React.createElement(LuAtom),
-    date: "2023 - Current",
+    date: "2023 - April 2025",
+  },
+  {
+    title: "Software Engineer",
+    location: "Yokohama, Japan ",
+    description:
+      "Started working as a Software Engineer in Japanese Company based in Yokohama, Japan. The business focuses on IoT development applications and more.",
+    icon: React.createElement(LuHardDrive),
+    date: "May 2025 - Present",
   },
 ] as const;
 
